@@ -10,7 +10,7 @@
 - PHP
 
 ## Links
-- [Gist (2023~)](https://gist.github.com/SunHigh105)
-- [Scrapbox (~2022)](https://scrapbox.io/hidakaayaka105-88764601/)
-- [Qiita](https://qiita.com/ayaka105)
-- [Zenn](https://zenn.dev/sunhigh105)
+- <a target="blank" href="https://gist.github.com/SunHigh105">Gist (2023~)</a>
+- <a target="blank" href="https://scrapbox.io/hidakaayaka105-88764601/">Scrapbox (~2022)</a>
+- <a target="blank" href="https://qiita.com/ayaka105">Qiita</a>
+- <a target="blank" href="https://zenn.dev/sunhigh105">Zenn</a>
